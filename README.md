@@ -1,6 +1,6 @@
-# {{PROJECT_TITLE}}
+# Expected Goals (xG) Modeling with Football Data
 
-A brief overview of the project’s purpose, scope, and business relevance.
+Build a machine learning model to estimate the "expected goals" (xG) value of every shot in a match, and present these insights in an interactive dashboard to support player recruitment and tactical analysis.
 
 ## Table of Contents
 1. [Installation](#installation)
